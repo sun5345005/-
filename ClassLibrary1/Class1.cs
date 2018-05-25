@@ -8,5 +8,9 @@ namespace ClassLibrary1
 {
     public class Class1
     {
+        public void addtime()
+        {
+            DateTime dt=System.DateTime.Now;
+        }
     }
 }
